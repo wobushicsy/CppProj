@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bst.h
+functional
+-
+cstddef
+-
+iostream
+-
+
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW3/src/bst.cpp
+bst.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW3/src/bst.h
+queue
+-
+iomanip
+-
+

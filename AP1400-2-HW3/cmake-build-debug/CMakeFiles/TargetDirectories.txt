@@ -1,0 +1,3 @@
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW3/cmake-build-debug/CMakeFiles/main.dir
