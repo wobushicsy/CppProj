@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hw1.h
+vector
+-
+
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW1/src/hw1.cpp
+hw1.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW1/src/hw1.h
+iostream
+-
+vector
+-
+random
+-
+iomanip
+-
+
