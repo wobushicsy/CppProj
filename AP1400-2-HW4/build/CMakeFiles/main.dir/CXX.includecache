@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/shared_ptr.h
+
+../include/unique_ptr.h
+
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/main.cpp
+iostream
+-
+gtest/gtest.h
+-
+unique_ptr.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/unique_ptr.h
+shared_ptr.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/shared_ptr.h
+
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/unit_test.cpp
+algorithm
+-
+gtest/gtest.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/gtest/gtest.h
+gmock/gmock.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/gmock/gmock.h
+string
+-
+vector
+-
+unique_ptr.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/unique_ptr.h
+shared_ptr.h
+/mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/src/shared_ptr.h
+

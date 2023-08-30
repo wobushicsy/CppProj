@@ -1,0 +1,5 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-20.04 --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4 -B /mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/cmake-build-debug"
+-- Found GTest: /usr/lib/libgtest.a  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/f/CSSelfLearning/6CppProj/AP1400-2-HW4/cmake-build-debug
